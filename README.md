@@ -1,1 +1,1 @@
-# React-Appointment-App
+# React Appointment App
